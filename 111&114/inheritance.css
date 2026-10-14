@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+    font-family: cursive;
+    border: 2px solid black;
+
+}
+h1{
+    font-size: 18px;
+    border:inherit;
+    color: inherit;
+}
+
+p{
+    font-size: 15px;
+    border: inherit;
+    color: chocolate;
+}
